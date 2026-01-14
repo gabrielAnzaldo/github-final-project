@@ -1,5 +1,4 @@
-forked-repo
-curl https://api.github.com/repos/gabrielAnzaldo/mcino-Introduction-to-Git-and-GitHub > forked-repo
+curl -s https://api.github.com/repos/gabrielAnzaldo/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
 
 {
   "name": "mcino-Introduction-to-Git-and-GitHub",
@@ -7,6 +6,6 @@ curl https://api.github.com/repos/gabrielAnzaldo/mcino-Introduction-to-Git-and-G
   "fork": true,
   "parent": {
     "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
-    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+    "html_url": "https://github.com/gabrielAnzaldo/github-final-project"
   }
 }
