@@ -1,1 +1,2 @@
- main 814550a [origin/main: ahead 2, behind 2] Merge remote-tracking branch 'origin/bug-fix-typo'
+❯ git branch -vv
+* main fc8e430 [origin/main: behind 4] Merge pull request #1 from gabrielAnzaldo/bug-fix-typo
