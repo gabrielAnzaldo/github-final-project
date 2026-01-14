@@ -1,8 +1,4 @@
 git checkout main
-git merge bug-fix-typo
-
-
-git checkout main
 Switched to branch 'main'
 
 
