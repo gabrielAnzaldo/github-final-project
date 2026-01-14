@@ -1,6 +1,6 @@
 # github-final-project
 github-final-project
-
+2023 XYZ, Inc.
 # Simple Interest Calculator
 
 A shell script that calculates simple interest given principal, annual rate of interest and time period in years.
