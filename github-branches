@@ -1,5 +1,1 @@
-* main
-  bug-fix-typo
-  remotes/origin/HEAD -> origin/main
-  remotes/origin/main
-  remotes/origin/bug-fix-typo
+ main 814550a [origin/main: ahead 2, behind 2] Merge remote-tracking branch 'origin/bug-fix-typo'
