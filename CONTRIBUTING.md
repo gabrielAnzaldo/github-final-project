@@ -1,36 +1,34 @@
+# Contributing to Simple Interest Calculator
 
-Contributing to scikit-learn
-============================
+First off, thank you for considering contributing to the Simple Interest Calculator project! 
 
-The latest contributing guide is available in the repository at
-`doc/developers/contributing.rst`, or online at:
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
-https://scikit-learn.org/dev/developers/contributing.html
+## How Can I Contribute?
 
-There are many ways to contribute to scikit-learn. Improving the
-documentation is no less important than improving the code of the library
-itself. If you find a typo in the documentation, or have made improvements, do
-not hesitate to create a GitHub issue or preferably submit a GitHub pull request.
+### Reporting Bugs
+If you find a bug in the shell script, please create a new issue in the GitHub repository. Provide a clear description of the problem and the steps to reproduce it.
 
-There are many other ways to help. In particular [improving, triaging, and
-investigating issues](https://github.com/scikit-learn/scikit-learn/issues),
-and [reviewing other developers' pull
-requests](https://scikit-learn.org/dev/developers/contributing.html#code-review-guidelines)
-are very valuable contributions that decrease the burden on the project
-maintainers.
+### Suggesting Enhancements
+We are always looking for ways to make the calculator better. If you have an idea for a new feature—such as support for compound interest or a more advanced UI—feel free to open an issue to discuss it.
 
-Another way to contribute is to report issues you're facing, and give a "thumbs
-up" on issues that others reported and that are relevant to you. It also helps
-us if you spread the word: reference the project from your blog and articles,
-link to it from your website, or simply star it in GitHub to say "I use it".
+### Pull Request Process
+1. **Fork** the repository to your own GitHub account.
+2. **Clone** the project to your local machine.
+3. Create a new **branch** for your feature or bug fix (`git checkout -b feature/AmazingFeature`).
+4. **Commit** your changes with clear messages (`git commit -m 'Add support for monthly interest rates'`).
+5. **Push** to the branch (`git push origin feature/AmazingFeature`).
+6. Open a **Pull Request** and describe the changes you have made.
 
-Note that communications on all channels should respect our
-[Code of Conduct](./CODE_OF_CONDUCT.md).
+## Style Guidelines
+* Ensure the shell script remains compatible with standard Bash.
+* Update the `README.md` if your changes introduce new input fields or functionality.
+* Use clear variable names (e.g., `principal` instead of `p`).
 
-Quick links
------------
+## Attribution
+This project follows the standard open-source contribution guidelines to ensure a collaborative and respectful environment for all developers.
 
-* [Submitting a bug report or feature request](https://scikit-learn.org/dev/developers/contributing.html#submitting-a-bug-report-or-a-feature-request)
-* [Contributing code](https://scikit-learn.org/dev/developers/contributing.html#contributing-code)
-* [Coding guidelines](https://scikit-learn.org/dev/developers/develop.html#coding-guidelines)
-* [Tips to read current code](https://scikit-learn.org/dev/developers/contributing.html#reading-the-existing-code-base)
+## Bug reports
+## Bug Fixes
+## Documentation improvements
+## Enhancements
