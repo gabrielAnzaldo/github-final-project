@@ -29,4 +29,4 @@ To run this script locally, follow these steps:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/YOUR_USERNAME/github-final-project.git](https://github.com/YOUR_USERNAME/github-final-project.git)
-_© 2022 XYZ, Inc._
+_© 2023 XYZ, Inc._
